@@ -5,14 +5,18 @@
   left: 50%;
   position: fixed;
 }
-.header { 
+
+.header {
 }
+
 .Mario {
-  width: 25%
+  width: 25%;
 }
+
 .luigi {
-  width: 25%
+  width: 25%:
 }
+
 .message { 
 }
 .wario {
