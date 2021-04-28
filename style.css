@@ -6,8 +6,6 @@
   position: fixed;
 }
 
-.header
-
 .Mario {
   width: 25%;
 }
@@ -15,8 +13,6 @@
 .luigi {
   width: 25%;
 }
-
-.message
 
 .wario {
   width: 500px;
