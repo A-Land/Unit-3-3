@@ -6,8 +6,7 @@
   position: fixed;
 }
 
-.header {
-}
+.header
 
 .Mario {
   width: 25%;
@@ -17,8 +16,8 @@
   width: 25%;
 }
 
-.message { 
-}
+.message
+
 .wario {
   width: 500px;
   height: 2000px;
